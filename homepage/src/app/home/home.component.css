@@ -1,7 +1,10 @@
 .main{
     max-width: 100%;
   }
-
+h3{
+    color: #62b1f1;
+    font-weight: 600;
+}
   .navbar{
       display: flex;
       align-items: center;
@@ -125,6 +128,9 @@ margin-left: 100px;
 
 .income{
 text-align: center;
+}
+.radio{
+    margin-left: -52px;
 }
 .income img{
 margin-right: 40rem;
